@@ -1,1 +1,3 @@
-# Responsive-Web-Design-Certification-Course-Project-1-Cat-Photo-App
+# Responsive-Web-Design-Certification-Course-Project-7-Flexbox-Photo-Gallery
+
+Replaced the course's images with my own.
